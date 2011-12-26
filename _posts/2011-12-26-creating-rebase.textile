@@ -1,0 +1,15 @@
+---
+layout: post
+title: creating rebase
+categories:
+- making
+- stuff
+updated_at: 2011-12-26
+uuid: 3EF97477-860D-49BD-AFE4-F48935A16718
+---
+
+Isn't it normal that the first thing you do when making something for writing about things you do is talk about what you did? Not today. Today I want to congratulate "Doc Eon":http://doceon.github.com, a man I met over at "Princeton":http://orta.github.com/on/being/25 on setting himself up a copy of this and getting his keyboard dirty with git on windows. 
+ 
+ <center> 
+ !http://ortarebase.s3.amazonaws.com/images/rebase-git.jpg(doc)!
+ </center>
