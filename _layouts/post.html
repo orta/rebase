@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<div id="post">
+  {{ content }}
+  <hr/>
+  <div id="footer">
+    <p>
+      Hello there, I'm orta. This is the end of the site, if you think I talk interesting, follow me on twitter <a href="http://twitter.com/orta">@orta</a>.
+    </p>
+  </div>
+</div>
+
+
+
+<script type="application/javascript">  
+    head.ready( function() {
+      
+      $("a.inline").click(function(){
+        
+        // a mini lightbox
+        var link = $(this);
+        link.addClass("selected")
+        $("body").append("<div id='background'> </div>")
+        $("body").append("<div id='popover'> </div>")
+        var img = new Image();
+        
+        $(img).load(function(){
+          $("#popover").append(this)
+          $("#popover, #background").click(function(){
+            $("#popover, #background").remove()
+            link.removeClass("selected")
+          })
+        })
+        
+        .attr('src',  $(this).attr("href"))
+        .attr('id',  "quickimage");  
+        
+        var distance = link.hasClass("apple") ? 18 : 28
+        $("#popover").css("top",  link.position().top + distance )
+        return false;
+       })        
+      });
+</script>
