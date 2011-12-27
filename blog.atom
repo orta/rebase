@@ -5,8 +5,8 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>orta therox</title>
- <link href="http://orta.github.com/blog.atom" rel="self"/>
- <link href="http://orta.github.com/"/>
+ <link href="http://orta.github.com/rebase/blog.atom" rel="self"/>
+ <link href="http://orta.github.com/rebase/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://orta.github.com/</id>
  <author>
@@ -21,7 +21,7 @@ layout: nil
    <id>http://orta.github.com{{ post.id }}</id>
    <content type="xhtml" xml:lang="{% if post.lang %}{{ post.lang }}{% else %}en{% endif %}" xml:base="http://orta.github.com/">
     <div xmlns="http://www.w3.org/1999/xhtml">
-     {{ post.content }}
+     {{ post.content | xml_escape }}
     </div>
    </content>
  </entry>
