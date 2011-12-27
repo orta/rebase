@@ -8,7 +8,7 @@ layout: nil
  <link href="http://orta.github.com/rebase/blog.atom" rel="self"/>
  <link href="http://orta.github.com/rebase/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://orta.github.com/</id>
+ <id>http://orta.github.com/rebase</id>
  <author>
    <name>orta therox</name>
    <email>orta.therox@gmail.com</email>
@@ -16,9 +16,9 @@ layout: nil
  {% for post in site.posts limit: 15 %}
  <entry>
    <title type="html">{{ post.title | xml_escape }}</title>
-   <link rel="alternate" href="http://orta.github.com{{ post.url }}"/>
+   <link rel="alternate" href="http://orta.github.com/rebase/{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://orta.github.com{{ post.id }}</id>
+   <id>http://orta.github.com/rebase/{{ post.id }}</id>
    <content type="xhtml" xml:lang="{% if post.lang %}{{ post.lang }}{% else %}en{% endif %}" xml:base="http://orta.github.com/">
     <div xmlns="http://www.w3.org/1999/xhtml">
      {{ post.content | xml_escape }}
