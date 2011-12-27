@@ -1,0 +1,13 @@
+---
+layout: post
+title: on poitics
+categories:
+- another
+- opinion
+updated_at: 2011-12-26
+uuid: 3156D771-89F5-4AD0-B2C5-437DAE54B86C
+---
+
+<iframe width="853" height="480" src="http://www.youtube.com/embed/-M54Z-Bzgcw?hd=1" frameborder="0" allowfullscreen></iframe>
+
+Glad to see grassroots groups like these popping up.
