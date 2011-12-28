@@ -6,7 +6,7 @@ title: Orta Therox
   {% for post in paginator.posts %}
    <article>
      <header>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="/rebase/{{ post.url }}">{{ post.title }}</a></h2>
         <h4>{{ post.date | date: "%d. %B %Y"  }}</h4>
      </header>
      {{ post.content }}
