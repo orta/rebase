@@ -1,0 +1,17 @@
+---
+---
+
+[
+  {% for post in paginator.posts %}
+    {
+      "url"   : "{{ post.url }}",
+      "title" : "{{ post.title }}",
+      "date"  : "{{ post.date | date: "%d. %B %Y"  }},
+     "content": "{{ post.content | xml_escape }}"
+    },
+  {% endfor %}
+  {{
+    
+    
+  }}
+]
