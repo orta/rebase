@@ -2,8 +2,7 @@
 layout: post
 title: the godaddy kerfuffle
 categories:
-- another
-- opinion
+- "on"
 updated_at: 2011-12-26
 uuid: 0E47039E-73EE-4181-9E22-E46D44584407
 ---
