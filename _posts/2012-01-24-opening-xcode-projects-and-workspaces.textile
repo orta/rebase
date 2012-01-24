@@ -8,7 +8,7 @@ uuid: F4F0718A-4DB4-4026-820C-DF7C7BA1CA5C
 ---
 
 
-In honour of cocoapods, which I've been experimenting with lately I figured it was time to update an old bash script I was using multiple times daily. It started off extremely simple as an alias.
+In honour of "cocoapods":https://github.com/CocoaPods/CocoaPods, which I've been experimenting with lately I figured it was time to update an old bash script I was using multiple times daily. It started off extremely simple as an alias.
 
 
 {% highlight js %}
