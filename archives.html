@@ -6,7 +6,7 @@ title: Archives of stuff
 <h1>All stuff</h1>
 <ul id="archives">
 {% for post in site.posts %}
-  <li><div class="date">{{ post.date | date: "%d. %B %Y"  }}</div><div><a href= "/rebase/{{ post.url }}">{{ post.title }}</a></div></li>
+  <li><div class="date">{{ post.date | date: "%d. %B %Y"  }}</div><div><a href= "/rebase{{ post.url }}">{{ post.title }}</a></div></li>
 {% endfor %}
 </ul>
 <p>&nbsp;</p>
