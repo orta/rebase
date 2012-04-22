@@ -1,0 +1,12 @@
+---
+layout: post
+title: skype
+categories:
+- "on"
+updated_at: 2012-04-22
+uuid: 3EFDC934-FD2C-4083-9F7C-D744345338BC
+---
+
+<img src ="/rebase/assets/images/skype.jpg">
+
+The client may be terrible. But I love what you can do with Skype.
