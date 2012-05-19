@@ -1,0 +1,28 @@
+---
+layout: post
+title: emojicons
+categories:
+- "on"
+updated_at: 2012-05-19
+uuid: 3FFDC534-FD2C-dd4083-9F7C-D744345338BC
+---
+
+
+"!/rebase/assets/images/emojicon.jpg!":/rebase/assets/files/emojicon.alfredextension
+
+Sometimes you need to let people know how you feel, sometimes words just don't cut it. And sometimes you're just too lazy to go to "emojicons.com":http://emojicons.com/ - I know that feeling. I know it well. In my opinoin every pull request should finish with an emojicon to let people know how awesome you think they are. Thus I made an Alfred extension that will paste a random emojicon into whatever is currently selected.
+
+The difficult part of it was copying unicode text into the pasteboard from a ruby script, so here's the eventual solution as no-one really seems to have it.
+
+{% highlight ruby %}
+# rubycocoa to the rescue!
+ns_string = OSX::NSString.stringWithString text)
+pb = OSX::NSPasteboard.generalPasteboard
+pb.declareTypes_owner_(["NSStringPboardType"], nil)
+pb.setString_forType_(ns_string, "NSStringPboardType")
+
+#paste
+`osascript -e 'tell application "System Events" to keystroke "v" using command down'`
+{% endhighlight %}
+
+make sure to `require "osx/cocoa"` and you're set. Rock on.
