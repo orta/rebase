@@ -13,7 +13,9 @@ uuid: 3FFDC534-FD2C-dd4083-9F7C-D744345338BC
 	<h3><a href="/rebase/assets/files/emojicon.alfredextension">Download</a></h3>
 </center>
 
-Sometimes you need to let people know how you feel, sometimes words just don't cut it. And sometimes you're just too lazy to go to "emojicons.com":http://emojicons.com/ - I know that feeling. I know it well. In my opinoin every pull request should finish with an emojicon to let people know how awesome you think they are. Thus I made an Alfred extension that will paste a random emojicon into whatever is currently selected.
+Updated! Now even more randomer!
+
+Sometimes you need to let people know how you feel, sometimes words just don't cut it. And sometimes you're just too lazy to go to "emojicons.com":http://emojicons.com/ - I know that feeling. I know it well. In my opinion every pull request should finish with an emojicon to let people know how awesome you think they are. Thus I made an Alfred extension that will paste a random emojicon into whatever is currently selected.
 
 The difficult part of it was copying unicode text into the pasteboard from a ruby script, so here's the eventual solution as no-one really seems to have it.
 
