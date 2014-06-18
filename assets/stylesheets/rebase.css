@@ -7,10 +7,19 @@ body {
     font-size: 1.5em;
     width: auto;
     position: initial;
+    margin-top: 32px;
+}
+
+#post-content {
+    padding:10px;
 }
 
 #post p {
     padding:12px;
+}
+
+h1 {
+    text-align:center;
 }
 
 h2 {
@@ -30,6 +39,12 @@ ul#archives div.date {
     padding-top: 6px;
 }
 
+@media (min-width:640px){
+    h1 {
+        text-align:left;
+    }
+}
+
 @media (min-width:1024px){
     body{
         width:100%;
@@ -37,7 +52,7 @@ ul#archives div.date {
     
     #post {
         width: 1024px;
-        margin: 0 auto;
+        margin: 32px auto;
     }
     
     ul#archives {
