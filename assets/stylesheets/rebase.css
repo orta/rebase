@@ -1,4 +1,54 @@
-article {
-  clear:both;
+body {
+    width: auto;
+    padding:0;
 }
 
+#post {
+    font-size: 1.5em;
+    width: auto;
+    position: initial;
+}
+
+#post p {
+    padding:12px;
+}
+
+h2 {
+    clear:both;
+    margin-bottom: 0px;
+    margin-top: 60px;;
+    width:80px;
+    text-align:right;
+}
+
+ul#archives {
+    font-size:1.2em;
+}
+
+ul#archives div.date {
+    width: 80px;
+    padding-top: 6px;
+}
+
+@media (min-width:1024px){
+    body{
+        width:100%;
+    }
+    
+    #post {
+        width: 1024px;
+        margin: 0 auto;
+    }
+    
+    ul#archives {
+        padding:20px;
+    }
+    
+    ul#archives div.date {
+        float:none;
+    }
+    
+    ul#archives div.title {
+        margin-left: 96px;
+    }
+}

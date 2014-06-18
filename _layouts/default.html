@@ -1,22 +1,25 @@
 <html>
 <head>
-  <base href="http://orta.github.com/">
+  <base href="http://orta.github.io/">
 
   <meta http-equiv="Content-type" content="text/html; charset=utf-8">
   <title>ortatherox - {{ page.title }}</title>
   <!-- 26 dec 2011 -->
+  <!-- 17 June 2014 -->
+  <link rel="canonical" href="http://nshipster.com">
   <meta name="author"  content="orta; http://orta.github.com/" /> 
   <meta name="title" content="rebase orta" /> 
-  <meta name="description" content="some dude talking on the internet." /> 
-  <meta name="keywords" content="" /> 
+  <meta name="description" content="Blog for ORta Therox" /> 
+  <meta name="keywords" content="orta github cocoapods cocoadocs xcode plugins swift objc community" /> 
   <meta name="robots" content="all,follow" /> 
   <link rel="alternate" type="application/atom+xml" title="Atom Blog Feed" href="http://orta.github.com/rebase/blog.atom" />
-
+  
   <link rel="stylesheet" href="/assets/fonts/stylesheet.css">
   <link rel="stylesheet" href="/assets/stylesheets/style.css">
   <link rel="stylesheet" href="/assets/stylesheets/syntax.css">
-  <link rel="stylesheet" href="http://localhost:4000/assets/stylesheets/rebase.css">
+  
   <link rel="stylesheet" href="/rebase/assets/stylesheets/rebase.css">
+  <link rel="stylesheet" href="http://localhost:4000/assets/stylesheets/rebase.css">
 
   <script src="/assets/javascripts/head.js" type="text/javascript" charset="utf-8"></script>
   <script type="text/javascript">
@@ -37,17 +40,6 @@
   
 </head>
 <body>
-  <section id="sidebar">
-    <a href="/"><img src="/assets/images/orta.jpg" alt="Orta"></a>
-    <h2>new stuff</h2>
-    {% for post in site.posts limit:6 %}
-        <p><a href="/rebase/{{ post.url }}">{{ post.title }}</a></p>
-    {% endfor %}
-    <h2><a href="/rebase/archives">all posts</a></h2>
-    
-  </section>
-  
   {{content}}
-  
 </body>
 </html>

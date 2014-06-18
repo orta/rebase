@@ -2,16 +2,20 @@
 layout: default
 ---
 <div id="post">
-  {{ content }}
+  <div id="post-content">
+    <h1>{{ post.title }}</h1>
+    {{ content }}
+  </div>
   <hr/>
+  
   <div id="footer">
     <p>
-      Hello there, I'm orta. This is the end of the site, if you think I talk interesting, follow me on twitter <a href="http://twitter.com/orta">@orta</a>.
+      Hi, I'm Orta, I build things you probably know of. Keep up to date by following me on <a href="http://twitter.com/orta">@orta</a>.
     </p>
+    
+    <p>Or alternatively check out <a href="http://orta.github.io">my website</a>.</p>
   </div>
 </div>
-
-
 
 <script type="application/javascript">  
     head.ready( function() {
@@ -39,6 +43,7 @@ layout: default
         var distance = link.hasClass("apple") ? 18 : 28
         $("#popover").css("top",  link.position().top + distance )
         return false;
-       })        
-      });
+      })
+                
+    });
 </script>

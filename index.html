@@ -1,32 +1,29 @@
 ---
-layout: post
+layout: default
 title: Orta Therox
 ---
-<section id="site">  
-  {% for post in paginator.posts %}
-   <article>
-     <header>
-      <h2><a href="/rebase/{{ post.url }}">{{ post.title }}</a></h2>
-        <h4>{{ post.date | date: "%d. %B %Y"  }}</h4>
-     </header>
-     {{ post.content }}
-    </article>
+
+<h1>All of it</h1>
+
+<ul id="archives">
+  {% for post in site.posts reverse %}
+  
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% unless year == this_year %}
+      {% assign year = this_year %}
+      <h2>{{ year }}</h2>
+    {% endunless %}
+  
+    
+    <li>
+      <div class="date">{{ post.date | date: "%B"  }}</div>
+      <div class="title"><a href= "/rebase{{ post.url }}">{{ post.title }}</a></div>
+    </li>
+
   {% endfor %}
 
-    <div class="pagination" id="bottom_page">
-    <ul>
-      {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-        <li class="previous"><a href="{{ site.baseurl }}/rebase">&larr; Previous</a></li>
-        {% else %}
-        <li class="previous"><a href="{{ site.baseurl }}/rebase/page{{ paginator.previous_page }}">&larr; Previous</a></li>
-        {% endif %}
-      {% endif %}
-        <li><p>Page {{ paginator.page }} of {{ paginator.total_pages }}</p></li>
-      {% if paginator.next_page %}
-        <li class="next"><a href="{{ site.baseurl }}/rebase/page{{ paginator.next_page }}">Next &rarr;</a></li>
-      {% endif %}
-    </ul>
-  </div>
-
-</section>
+  
+{% for post in site.posts %}
+{% endfor %}
+</ul>
+<p>&nbsp;</p>
