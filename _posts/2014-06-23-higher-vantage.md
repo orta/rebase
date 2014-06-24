@@ -12,7 +12,7 @@ uuid: 3EF93477-860D-49BD-AFE4-F48935A1
 
 One of the interesting things about working on a large project is the sense of influence. CocoaPods affects the iOS/Mac development community to the extent that people say Apple are worried about being beholden to us. I'm not entirely sure I agree ( but I'd love to see Apple do dependency management. )
 
-Being an extremely active member of this community means I often get to spend time talking with others around where we're heading and what interesting oppertunities there are out there to make an impact. This post is my perspective, they are a mix of things I'd like to do but might never get round to or things I'd love to see. They tend to be web-based, because web projects are scalable and can impact everyone. Let's take a look.
+Being an extremely active member of this community means I often get to spend time talking with others around where we're heading and what interesting opportunities there are out there to make an impact. This post is my perspective, they are a mix of things I'd like to do but might never get round to or things I'd love to see. They tend to be web-based, because web projects are scalable and can impact everyone. Let's take a look.
 
 #### lists.cocoapods.org
 
