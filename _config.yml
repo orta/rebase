@@ -1,4 +1,4 @@
 markdown: rdiscount
 pygments: true
 permalink: /:categories/:title
-paginate: 8  
+paginate: 8
