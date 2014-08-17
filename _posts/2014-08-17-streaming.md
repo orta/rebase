@@ -12,9 +12,9 @@ uuid: 3EFFF477-860D-49BD-AFE4-F48935A1
 
 ### Motivations
 
-I like the idea of streaming. I think it shows a lot of the _behind the scenes_ action. The things that we create and put on show tend to be the process of many many hours of work. Whilst opening your source up gives an insight to incremental stagees of the development process. It doesn't really show the infinite steps in-between.
+I like the idea of streaming. I think it shows a lot of the _behind the scenes_ action. The things that we create and put on show tend to be the process of many many hours of work. Whilst opening your source up gives an insight to incremental stages of the development process. It doesn't really show the infinite steps in-between.
 
-When getting started in a  new environment, a lot of the problems are about trying to get acclimatised to tools & process. When I was learning ruby I used to watch every peepcode, a tutorial video web-series, bought now by pluralsight. It started out a lot like NSScreencast, a series of videos around specific topics. By the end though, it had transformed into showing how some of the most prominent developers in the community would solve problems. You can see them all on [pluralsight here](http://beta.pluralsight.com/search/?searchTerm=play%20by%20play). This gives you an insight into the tools and how they manipulate them, with modern dev tools being so flexible everyone has their own flow. I want to share mine.
+When getting started in a  new environment, a lot of the problems are about trying to get acclimatised to tools & processes. When I was learning ruby I used to watch every peepcode, a tutorial video web-series, bought now by pluralsight. It started out a lot like NSScreencast, a series of videos around specific topics. By the end though, it had transformed into showing how some of the most prominent developers in the community would solve problems. You can see them all on [pluralsight here](http://beta.pluralsight.com/search/?searchTerm=play%20by%20play). This gives you an insight into the tools and how they manipulate them, with modern dev tools being so flexible everyone has their own flow. I want to share mine.
 
 ### Technical
 
