@@ -1,6 +1,7 @@
 body {
     width: auto;
     padding:0;
+    background-color:#d7d7d7;
 }
 
 #post {
@@ -49,20 +50,20 @@ ul#archives div.date {
     body{
         width:100%;
     }
-    
+
     #post {
         width: 1024px;
         margin: 32px auto;
     }
-    
+
     ul#archives {
         padding:20px;
     }
-    
+
     ul#archives div.date {
         float:none;
     }
-    
+
     ul#archives div.title {
         margin-left: 96px;
     }
