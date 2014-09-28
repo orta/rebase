@@ -29,12 +29,20 @@ uuid: FF44345-860D-49BD-AF324-sdd
   <div id="post-content">
 
 
-Let's not get melodramatic here. But creating something like [shouldiusecocoapods.com](http://samdmarshall.com/blog/open_letter_to_developer_bullshit.html) hurts. Yes it personally hurts the developers of the tool that help hundred of thousands of aspiring and aspired developers. More importantly it hurts the community at large.
+Let's not get melodramatic here. But creating something like [shouldiusecocoapods.com](http://samdmarshall.com/blog/open_letter_to_developer_bullshit.html) hurts. It personally hurts the developers of the tool that help hundred of thousands of aspiring and established developers.But more importantly it hurts the community at large.
 
 Every time a flash of "I hate CocoaPods" happens on the internet another person has probably been discouraged at getting involved in the larger community. You're welcome to not like the tool, you're also welcome to your opinion. Hating on something as mundane _and necessary_ as a dependency manager for a language though, seems a bit lame.
 
-We're stuck right now using Apple's tool which are blatantly not production worthy, and may not be for a few months. Or maybe we wait a year. Who knows? I'm experiencing crashes multiple times a day trying to write Swift code. These tools are not open, and whilst the developer community has been filling gaps we're stuck with what we have from Apple side. We're on the other side, we have to work together and help each other out.
+We're stuck right now using Apple's tools which are not production worthy and may not be for a few months. Or maybe we have to wait a year. Who knows? I'm experiencing crashes multiple times a day trying to write a Swift app. These tools are not open, and whilst the developer community has been filling gaps we're stuck with what we have from Apple side. We're on the other side, we have to work together and help each other out.
 
-Don't like sharing code? Great
-Telling other people they're idiots for doing so? Not great.
-Telling people they're idiots for using other people's code? You need an attitude re-adjustment, and people should stand up to that.
+* Don't like sharing code? Great
+* Telling other people they're idiots for doing so? Not great.
+* Telling people they're idiots for using other people's code? You need an attitude re-adjustment, and people should stand up to that.
+
+### Want to see a great example of being understanding?
+
+<center>
+  <blockquote class="twitter-tweet" lang="en"><p>Note to self: Never accept a ‘small looking’ update to <a href="https://twitter.com/CocoaPods">@CocoaPods</a>. Now I’d like my project back how it was…</p>&mdash; Kevin Mitchell (@kamitchell) <a href="https://twitter.com/kamitchell/status/516317741998161920">September 28, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <blockquote class="twitter-tweet" lang="en"><p>The <a href="https://twitter.com/CocoaPods">@CocoaPods</a> experiment is over for me, too much bad experience. Back to git subtrees and manual dependencies.</p>&mdash; Kevin Mitchell (@kamitchell) <a href="https://twitter.com/kamitchell/status/516323495245271040">September 28, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/alloy">@alloy</a> <a href="https://twitter.com/CocoaPods">@CocoaPods</a> And I’ll wish you success on the project and check back later when I can do some peg-shaving. Some parts, I really like.</p>&mdash; Kevin Mitchell (@kamitchell) <a href="https://twitter.com/kamitchell/status/516327533747654657">September 28, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
