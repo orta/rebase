@@ -2,3 +2,4 @@ _site
 .DS_Store
 server
 .Ulysses-Group.plist
+.UlyssesRoot
