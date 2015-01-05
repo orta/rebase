@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the reponsabilities of the techincal savvy
+title: On the responsibilities of the techincal savvy
 categories:
 - "on"
 - "our"
