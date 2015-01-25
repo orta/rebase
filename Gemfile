@@ -1,5 +1,3 @@
 source "https://rubygems.org"
 
-gem 'jekyll'
-gem 'RedCloth'
-gem 'livereload'
+gem 'github-pages'
