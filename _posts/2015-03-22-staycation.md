@@ -30,10 +30,26 @@ Anyway we went to the [Rockerfella Center’s][11] Top of the Rock instead of th
 
 We went back did dinner with Dave Wiskus at a cool [Italian place][12]. |
 
-| 5 | We figured now that we had seen Central Park from afar, and that the weather had a snowy forecast it was the day to go to Central Park. We look a look around  The five guys burger, central park, meatball shop
-| 6| Katz's pastrami sandwich, Broadway show, yunann ( numbing spices )
-| 7 | fried chicken, sleep no more, Clinton street pizza
-| 8 | armory show, rice and beans ( Brazilian ), happy hour, Benito one Italian
+| 5 | We figured now that we had seen Central Park from afar, and that the weather had a snowy forecast it was the day to go to Central Park. We meandered up dropping in to a Five Guys Burger place. I loved their burger, probably the best one I had during my stay in NYC. 
+
+We walkted through central park as it went from clear to inches of snow, hanging out in a mini-blizzard was fun. Got some great photos.
+
+We finished up the evening by going the The Meatball Shop nearby. Great place, would recommed.
+
+| 6 | I live by Katz's Deli, and we kept our eye on the queues outside, and on this morning we could just pop in. I’ve seen the portion sizes, so we opted to share a Pastrami Sandwich. 
+
+I had booked to go see a Broadway show, [Fish in the Dark][13], during the day. The show was a bit meh. However it ticked off a thing to do, and it was interesting seeing the theature culture. We finished the day by going to the restraunt Yunann, we had been recommended their numbing spices, I loved it.
+
+| 7 | We did Fried Chicken in the morning, then in the evening we attended a performance of Sleep No More. 
+
+Sleep No More is a live-action theatre show, reenacting Macbeth. It’s performed on two floors of a hotel, and you act as a floating head following individual actors around as you piece together the story from separate threads. I previously had no experience of the story of Macbeth ( would recommend reading the [sparknotes][14] ) so I spent a lot of time walking around absently exporing the set. Every detail could be taken apart. It was beautiful. Would highly recommend.
+
+We grabbed some Clinton street pizza on the way home exhausted.
+
+| 8 | [The Armory Show][15] opened and I wanted to pop by. Artsy provided a lot of cool tech to this fair, and I wanted to get a sense of what it was like as a punter.
+
+The show was cool. We had brazilian food after at [Rice and Beans](), this was awesome. Given that it was a Friday, we attended Artsy happy hour, then went for Benito One Italian.
+
 | 9 | Papaya dog corn dog and philly cheese steak and Milon Indian (crazy lights).
 | 10 | walked the Manhattan bridge, Girl Scout cookies, walked back on the Brooklyn bridge, pukk
 | 11 | went to whole foods, katja ( German ) then escape the room
@@ -54,3 +70,6 @@ We went back did dinner with Dave Wiskus at a cool [Italian place][12]. |
 [10]:	http://www.yelp.com/biz/russ-and-daughters-new-york
 [11]:	http://www.topoftherocknyc.com
 [12]:	http://www.yelp.com/biz/la-lanterna-di-vittorio-new-york
+[13]:	http://www.fishinthedark.com
+[14]:	http://www.sparknotes.com/shakespeare/macbeth/
+[15]:	https://www.artsy.net/the-armory-show
