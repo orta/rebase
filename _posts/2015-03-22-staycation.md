@@ -46,11 +46,17 @@ Sleep No More is a live-action theatre show, reenacting Macbeth. It’s performe
 
 We grabbed some Clinton street pizza on the way home exhausted.
 
-| 8 | [The Armory Show][15] opened and I wanted to pop by. Artsy provided a lot of cool tech to this fair, and I wanted to get a sense of what it was like as a punter.
+| 8 | [The Armory Show][15] opened and I wanted to pop by. Artsy provided a lot of cool tech to this fair, and I wanted to get a sense of what it was like as a punter. We walked in and I played with my phone for a while, then I had to restart my app and all the cache was gone, so I couldn’t use it. No WIFI either. So useful for a bit.
 
-The show was cool. We had brazilian food after at [Rice and Beans](), this was awesome. Given that it was a Friday, we attended Artsy happy hour, then went for Benito One Italian.
+The show was cool. We had brazilian food after at [Rice and Beans](), this was awesome. Given that it was a Friday, we attended Artsy happy hour, then went for Benito One Italian with some fellow Artsyers.
 
-| 9 | Papaya dog corn dog and philly cheese steak and Milon Indian (crazy lights).
+- photo
+
+
+| 9 | Danger wanted to try a corn dog. We had seen a place that looked like a nice greasy-spoon on our routes to Brooklyn. So we heading to [Papaya dog][17] for a corn dog and philly cheese steak.
+
+The rest of saturday was pretty chill, we finished by going to the most garish indian restraunt in Manhattan, [Milon Indian][18]. I think the photos explain enough.
+
 | 10 | walked the Manhattan bridge, Girl Scout cookies, walked back on the Brooklyn bridge, pukk
 | 11 | went to whole foods, katja ( German ) then escape the room
 | 12 | Highline, artichoke, painting lounge
@@ -73,3 +79,5 @@ The show was cool. We had brazilian food after at [Rice and Beans](), this was a
 [13]:	http://www.fishinthedark.com
 [14]:	http://www.sparknotes.com/shakespeare/macbeth/
 [15]:	https://www.artsy.net/the-armory-show
+[17]:	g
+[18]:	hhh
