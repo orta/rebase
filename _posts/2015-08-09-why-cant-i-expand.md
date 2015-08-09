@@ -8,7 +8,7 @@ The CocoaPods Website is pretty complex, but it's not a black box. Occasionally 
 
 We'll go through an example I just looked at, [SCConfiguration](http://cocoapods.org/pods/SCConfiguration). The end result is that we want to be able to show the Pod page that looks like this:
 
-![Sccconfig Pod Page](../assets/images/sccconfig-pod-page.png)
+<img src="/rebase/assets/images/sccconfig-pod-page.png" alt="Sccconfig Pod Page" width="100%">
 
 There are two places to start looking at the problem:
 
