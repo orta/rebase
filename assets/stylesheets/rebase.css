@@ -40,6 +40,10 @@ ul#archives div.date {
     padding-top: 6px;
 }
 
+img {
+  max-width:100%;
+}
+
 @media (min-width:640px){
     h1 {
         text-align:left;
