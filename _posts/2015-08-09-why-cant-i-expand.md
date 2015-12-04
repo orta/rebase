@@ -19,7 +19,7 @@ There are two places to start looking at the problem:
   
   The most common problem with generating documentation is that your library crashes either [appledoc](http://appledoc.gentlebytes.com/appledoc/) or [jazzy](https://github.com/realm/jazzy). This tends to happen when you use bleeding edge features in betas of Xcode.
   
-  The 404 page offers a button to request that CocoaDocs takes a second look at running your librar, the URL for this is [http://api.cocoadocs.org:4567/redeploy/[pod]/latest](nope://hah)
+  The 404 page offers a button to request that CocoaDocs takes a second look at running your library, the URL for this is [http://api.cocoadocs.org:4567/redeploy/[pod]/latest](nope://hah)
   
   CocoaDocs also offer a way to see errors from CocoaDocs related to a pod. The URL for this [http://api.cocoadocs.org:4567/error/[Podname]/[Version]](http://api.cocoadocs.org:4567/error/SCConfiguration/1.0.0). You'll get a 404 if there's no logged errors.
   
