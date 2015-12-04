@@ -21,7 +21,7 @@ layout: nil
    <id>http://orta.github.com/rebase/{{ post.id }}</id>
    <content type="xhtml" xml:lang="{% if post.lang %}{{ post.lang }}{% else %}en{% endif %}" xml:base="http://orta.github.com/">
     <div xmlns="http://www.w3.org/1999/xhtml">
-     {{ post.content | xml_escape }}
+     {{ post.content | strip_html }}
     </div>
    </content>
  </entry>
