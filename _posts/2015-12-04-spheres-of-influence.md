@@ -28,7 +28,7 @@ In my second year at Artsy, I started running the [CocoaPods Specs](https://gith
 
 Half a year of that, and I was comfortable fixing a harder problem with the community. I [started working](https://github.com/CocoaPods/cocoadocs.org/commit/93e9896b04f79eb09be28a9056671b1d23f3143d) on CocoaDocs. I didn't tell people in CocoaPods that I was doing it, I didn't announce my intentions. I just shipped it, and announced it. The validation came a few months later, as more [libraries](https://github.com/AFNetworking/AFNetworking/commit/22ba1c863648f4d50b673319bac3506a5fc9adde) started to support it as their main source of documentation. At this point there were only about 1,500 CocoaPods.
 
-In my third year of Artsy, we created the mobile team. I used my reputation from CocoaDocs to start landing [conference talks around the world](http://orta.io/#speaking). I did this because I could visit my partner in the UK, and because I wanted people to work with. [It worked](https://ashfurrow.com/blog/new-job/).
+In my third year of Artsy, we created the mobile team. I used my reputation from CocoaDocs to start landing [conference talks around the world](http://orta.io/#speaking). I did this because I could visit my girlfriend in the UK, and because I wanted people to work with. [It worked](https://ashfurrow.com/blog/new-job/).
 
 Having a mobile team meant being able to create a culture. At first we were indistinguishable from every dev team in artsy. It took maybe a year to decide what the mobile team even was.
 
