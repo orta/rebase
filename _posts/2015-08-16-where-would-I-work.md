@@ -10,17 +10,17 @@ I have no plans on leaving Artsy, I've been here for 4 years, and I still feel l
 
 # Politics
 
-Some of the things that worry me the most are; the levels of inequility in the world and the damage done by [The Establishment](http://www.amazon.co.uk/Establishment-how-they-get-away/dp/0141974990/ref=asap_bc?ie=UTF8)
+Some of the things that worry me the most are; the levels of inequility in the world and the damage done by [The Establishment](http://www.amazon.co.uk/Establishment-how-they-get-away/dp/0141974990/ref=asap_bc?ie=UTF8).
 
 ### The Intercept / First Look Media
 
-The Intercept is where the cutting edge of political journalism is at now. When I'm interested in American politics, this is my first port of call. The don't even have [open iOS positions](https://boards.greenhouse.io/firstlook?t=t0bfux#.VdCpt6O_W5I), I'd apply anyway.
+The Intercept is where the cutting edge of political journalism is at now. When I'm interested in American politics, this is my first port of call. They don't even have [open iOS positions](https://boards.greenhouse.io/firstlook?t=t0bfux#.VdCpt6O_W5I), I'd apply anyway.
 
 ### MySociety
 
 The state of the UK as far gone as the US. However there is a lot broken in the UK, and its safe to expect that for the next few years things will get worse. 
 
-My Society is a non-for-profit that creates [tools and APIs](https://www.mysociety.org/projects/) that help people correlate political actions. They make it easy to get data from the goverment via the freedom of information act, provide profiles on polititions ( the one who represents me has a [pretty disgusting track record](http://www.theyworkforyou.com/mp/24944/craig_whittaker/calder_valley/votes). ) and lower the barrier to participation considerably.
+My Society is a non-for-profit that creates [tools and APIs](https://www.mysociety.org/projects/) that help people correlate political actions. They make it easy to get data from the goverment via the freedom of information act, provide profiles on politicians ( the one who represents me has a [pretty disgusting track record](http://www.theyworkforyou.com/mp/24944/craig_whittaker/calder_valley/votes). ) and lower the barrier to participation considerably.
 
 They're [not looking](https://www.mysociety.org/about/careers/) for new people, but I'd also apply anyway with a Pitch of how they could use iOS to their advantage.
 
@@ -28,7 +28,7 @@ They're [not looking](https://www.mysociety.org/about/careers/) for new people, 
 
 The last British newpaper I actively read. They seem to be looking for [engineers](https://gnm.taleo.net/careersection/ex/jobdetail.ftl?job=KIN00002J) and don't seem to differentiate between types of engineers.
 
-If they were good enough for Snowdon, they are good enough for me.
+If they were good enough for Snowden, they are good enough for me.
 
 # Crypto
 
