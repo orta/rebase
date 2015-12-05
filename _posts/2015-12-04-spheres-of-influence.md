@@ -34,11 +34,11 @@ Having a mobile team meant being able to create a culture. At first we were indi
 
 With CocoaDocs stable, I started work on a much harder project: [redesigning CocoaPods](http://blog.cocoapods.org/redesign/). This project touched every part of the public representation of CocoaPods. It involved working closely with a lot of people, on a project they cared about. We made the site easier to use, vastly improved documentation  and offered clear communication channels. We were seeing about 1,000 people a day on the CocoaPods site when we switched the design.
 
-In my fourth year of Artsy, I cemented what it means to be a mobile engineer at Artsy. Probably, for the rest of Artsy's lifetime. With help from Ash, we made every application open source, and established a culture of open source by default from then on. I got to a point where I don't need to do so much programming, as I wanted work on different problems. We hired some more awesome people, and now our impact isn't just within Artsy, but on the entire Cocoa community.
+In my fourth year of Artsy, I cemented what it means to be a mobile engineer at Artsy. Probably, for the rest of Artsy's lifetime. With help from Ash, we made every application open source, and established a culture of open source by default from then on. I got to a point where I didn't need to do so much programming, as I wanted to work on different problems. We hired some more awesome people, and now our impact isn't just within Artsy, but on the entire Cocoa community.
 
 Within CocoaPods I helped us make the [transition](http://blog.cocoapods.org/The-captain-leaves-the-bridge) from small group of hackers, to a [considerable team of people](https://cocoapods.org/about) and voices. CocoaPods became the default integration methods for the majority of SDK providers, and it is assumed now that every library supports CocoaPods.
 
-In the process, I've used CocoaPods' ubiquity to improve the code quality for the tens of thousands of libraries, by offering analytics, showing ways to improve libraries programmatically and adding extra features for libraries that conform to standard.
+In the process, I've used CocoaPods' ubiquity to improve the code quality for the tens of thousands of libraries, by offering analytics, showing ways to improve libraries programmatically and adding extra features for libraries that conform to general standards.
 
 We now get 100,000 unique people visiting the CocoaPods website looking for ways to improve their apps. In the last 3 months there were 30 million pods integrated by CocoaPods.
 
@@ -52,10 +52,10 @@ My sphere of influence has never been greater. However, that sphere is mostly de
 
 I feel like the CocoaPods App is probably going to be my last major project at CocoaPods. I have a lot to maintain, so I'm not going anywhere, but having Apple in the space definitely makes it easier to start work on the projects I've been [talking](https://twitter.com/orta/status/634060944528814081) about doing for the last year or two.
 
-There's still a lot of really interesting community work to do in the Cocoa community, but maybe it's better to recognise that it's not a singular community anymore. It's going to be a weird transition from Cocoa community to Swift community.
+There's still a lot of really interesting work to do in the Cocoa community, but maybe it's better to recognise that it's not a singular community anymore. It's going to be a weird transition from "Cocoa community" to "Swift community" + "Cocoa communuty".
 
 I've been feeling the tension from it the last year. It's why I started talking about everyone raising the bar on [being nice](https://twitter.com/lascorbe/status/608757355845570560).
 
 In my fifth year of Artsy, I expect to be doubling the mobile team. I want to get more people into a position where they feel like how Ash talks about in his post on [Building His Career](https://ashfurrow.com/blog/building-my-career/). I want to program even less. I want the mobile team to have exponentially more users on their apps.
 
-I want my free time to have even more of an impact on the world than they do now. To do that, I need to stop new work on developer tools. There are other non-trivial projects that I should devote my time to.
+I want my free time to have even more of an impact on the world than it does now. To do that, I need to stop new work on developer tools. There are other non-trivial projects that I should devote my time to.
