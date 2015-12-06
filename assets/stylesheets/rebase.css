@@ -26,9 +26,19 @@ h1 {
 h2 {
     clear:both;
     margin-bottom: 0px;
-    margin-top: 60px;;
+    margin-top: 3em;
     width:80px;
     text-align:right;
+    text-decoration: underline;
+}
+
+@media (max-width:1024px){
+  body {
+    font-size:3em;
+  }
+  ul#archives div.date {
+    float:none;
+  }
 }
 
 ul#archives {
@@ -36,8 +46,8 @@ ul#archives {
 }
 
 ul#archives div.date {
-    width: 80px;
-    padding-top: 6px;
+    width: 4em;
+    padding-top: 2em;
 }
 
 img {
