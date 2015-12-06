@@ -6,7 +6,7 @@ uuid: EF41545-82101-29BAD-E4324-sdd
 
 We all want to make an impact. Somehow.
 
-My girlfriend is a Podiatrist, she makes a direct impact on everyone she helps. The people who she helps out can come away from that interaction with a noticeable positive difference in their life. She can make an impact that lasts for months in span of 15 minutes.
+My girlfriend is a Podiatrist, she makes a direct impact on her patients. The people she helps come away from that interaction with a noticeable positive difference in their life. She can make an impact that lasts for months in span of 15 minutes.
 
 Her sphere of influence however, is small. A direct impact on a small number of people. In a discrete area.
 
