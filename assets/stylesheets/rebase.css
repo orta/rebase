@@ -35,7 +35,6 @@ h2 {
 @media screen and (max-device-width : 414px) {
   body {
     font-size:3em;
-    background-color: red;
   }
   ul#archives div.date {
     float:none;
