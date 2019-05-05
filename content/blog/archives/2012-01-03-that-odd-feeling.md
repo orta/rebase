@@ -1,0 +1,54 @@
+---
+layout: post
+title: that odd feeling
+categories:
+- "on"
+updated_at: 2012-01-03
+uuid: 3CEC90FC-33BC-4952-A477-EDA7DABA0AD2
+---
+[DocEon](http://doceon.github.com/on/dev/brief-post-about-hideous-men/)
+posted yesterday about the feelings of squirmishness he gets from an
+article that I started reading but decided I just wasn’t into it. But
+what I have been into lately and I’ve been getting the same kind of
+feelings about is paintings. And one artist in particular that really
+stands out as giving me this same reaction.
+
+The kernel of his article is this when discussing the characters.
+
+> Society hardly stigmatizes the interviewee- he’s interested in
+> no-strings-attached sex, and he’s willing to be deceptive about it.
+> He’s a dick, and (regardless of what he says to the contrary) it’s
+> easy to imagine that he’s got the emotional depth of a puddle, but
+> he’s not a criminal. He’s not a sympathetic character in the
+> traditional sense, but he’s easy enough to sympathize with (for me, at
+> least, which is uncomfortable enough).
+
+[DocEon](http://doceon.github.com/on/dev/brief-post-about-hideous-men/)
+- A Brief Post About Hideous Men
+
+![](http://ortarebase.s3.amazonaws.com/images/saville1.jpg)
+
+The appealing part of the work is that it drags you in kicking and
+screaming and forces you to connect with characters that normally you
+would barely even pause for. There’s an Artist called [Jenny
+Saville](http://www.saatchi-gallery.co.uk/artists/jenny_saville.htm)
+that does this for me, her paintings are huge and borderline grotesque,
+but I’m attracted to them. Her work concentrates a lot on naked women,
+and transvestites and has both a strong sense of sexuality in her work.
+But there’s also this brutalism in her work, the people portrayed feel
+damaged, yet still give the viewer a come hither look that makes me
+wonder how voyeristic merely looking is.
+
+![](http://ortarebase.s3.amazonaws.com/images/saville2.jpg)
+
+The [rest of her
+work](https://encrypted.google.com/search?tbm=isch&q=jenny%20saville) is
+totally worth a look, and a lot less PG rated than the thumbnails I have
+here. I’ve leave the Doc to finish this.
+
+> Anyway, that’s what I love about David Foster Wallace, and about good
+> literature in general- you aren’t just a consumer of it, you are a
+> participant. I think that’s the value that it has.
+
+[DocEon](http://doceon.github.com/on/dev/brief-post-about-hideous-men/)
+- A Brief Post About Hideous Men

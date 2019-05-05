@@ -1,0 +1,12 @@
+---
+layout: post
+title: the godaddy kerfuffle
+categories:
+- "on"
+updated_at: 2011-12-26
+uuid: 0E47039E-73EE-4181-9E22-E46D44584407
+---
+
+I think its great to see the current push away from godaddy in response to their active support in SOPA. I wonder if this is a case of people are slowly becoming more and more political in expressing their opinions both online and off. I think the only domain I have left with godaddy is brutaltechnopunk.com and that'll probably have to go too.
+
+for anything technical I've been using simpleDNS. Everyone knew godaddy was a bad apple a long time ago. It's crazy that they got themselves exempt from SOPA also, people aren't focussing too much.

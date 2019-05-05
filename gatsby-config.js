@@ -1,14 +1,19 @@
-module.exports = {
+/** @type import("gatsby").GatsbyConfig */
+
+const config = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `rebase -i`,
+    author: `Orta Therox`,
+    description: `Writing.`,
+    siteUrl: `https://orta.io/rebase/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `orta`,
     },
   },
+  pathPrefix: "/rebase",
   plugins: [
+    `gatsby-mdx`,
+    "gatsby-plugin-typescript",
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -47,12 +52,6 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
-      },
-    },
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
@@ -76,3 +75,5 @@ module.exports = {
     },
   ],
 }
+
+module.exports = config

@@ -1,0 +1,19 @@
+---
+layout: post
+title: barriers of entry to photography
+categories:
+- "on"
+updated_at: 2011-12-27
+uuid: CB26E468-A141-4DE9-841F-866EB25DC162
+---
+<a href="http://katiesoze.tumblr.com/"><img src="http://24.media.tumblr.com/tumblr_lwjwpcbzcR1qdpxqyo5_500.jpg"></a>
+
+A friend of mine ( who I did a [podcast with](http://ortacast.heroku.com) ) has been talking about the barriers of entry for Photography. Like Katie, I have no training for photography, I just went out and did it. Then afterwards people called me a photographer. There's a common thread throughout her blog at the minute about terminology, on whether you class yourself as a creative, as a photographer, whether you're a pervy photographer. And it's all mixed in with her beautiful shots which give contrast to her stark admissions that she's doing this all as she goes along.
+
+Essentially people have to be given labels because explaining everything would take too long. I say I'm an iPad developer now, but that doesn't mean I don't spend hours writing websites, or doing photography, or studying art. It just means someone can form an opinion easier.
+
+I'm happy that it's easier than ever to pick up a great camera, the more people out there doing it just raises the waterlevel. 
+
+You should read ["Katiesoze"](http://katiesoze.tumblr.com)
+
+highlight for me: "An intelligent person’s guide to using a camera (which is just a box)":http://katiesoze.tumblr.com/post/11919255855/an-intelligent-persons-guide-to-using-a-camera-which

@@ -11,8 +11,8 @@ class BlogIndex extends React.Component {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
 
-    const isModernPost = (f) => !f.node.fields.slug.includes("archives/")
-    const posts = data.allMarkdownRemark.edges.filter(isModernPost)
+    const isArchived = (f) => !!f.node.fields.slug.includes("archives/")
+    const posts = data.allMarkdownRemark.edges.filter(isArchived).reverse()
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
